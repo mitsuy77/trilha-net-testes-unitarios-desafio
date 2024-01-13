@@ -1,6 +1,6 @@
 namespace TestesUnitarios.Desafio.Console.Services
 {
-    public class ValidacoesString
+       public class ValidacoesString
     {
         public int RetornarQuantidadeCaracteres(string texto)
         {
